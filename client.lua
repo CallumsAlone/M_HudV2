@@ -1,3 +1,5 @@
+-- Credits to https://forum.cfx.re/t/release-vrp-hud-of-thirst-hunger-health-and-armor/176576
+
 Citizen.CreateThread(function()
     while true do
         Citizen.Wait(100)
